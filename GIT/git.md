@@ -66,11 +66,3 @@ Essa plataforma tem várias vantagens, como:
 <p>Geralmente o código é aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado de seu progresso. A plataforma GitHub também funciona como rede social, conectando os desenvolvedores com os usuários.</p>
 
 Você pode acessar o site do [GitHub](https://github.com/) e criar a sua conta clicando em Sign Up. Após criar sua conta você pode completar as informações de perfil e começar a criar repositórios para os seus projetos. 
-
-# <font color=green>Markdown</font>
-
-## <font color=grey>O que é Markdown?</font>
-É uma linguagem de marcação assim como o HTML. Foi desenvolvida por John Gruber e Aaron Swartz em 2004.<br>
-Através do [Guia](https://www.markdownguide.org/) é possível conhecer todos os detalhes e usos desde a sintaxe básica até a extendida. 
-Este resumo está sendo escrito em Markdown :smile:
-# <font color=red>HTML</font>
