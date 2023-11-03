@@ -54,7 +54,6 @@ Para atualizar um repositório local você pode utilizar os comandos abaixo:<br>
 - git pull pull <REMOTE_NAME> <BRANCH_NAME_LOCAL>
 - git pull pull <REMOTE_NAME> <BRANCH_NAME_LOCAL> : <BRANCH_NAME_REMOTE>
 
-
 ## <font color=purple>O que é GitHub?</font>
 É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o _Git_.<br>
 Essa plataforma tem várias vantagens, como:
