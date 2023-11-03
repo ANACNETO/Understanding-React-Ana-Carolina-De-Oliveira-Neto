@@ -6,7 +6,6 @@
 <p>A tag "a" é um elemento inline, ou seja, ela está ocupando somente o tamanho total do conteúdo, que nesse caso é o texto.</p>
 
 ## Conhecendo mais Elementos Inline
-
 **span**
 <p>Muito parecido com a tag sem semântica "div", porém é um elemento em linha que atua como um container genérico para agrupar conteúdos de texto.</p>
 

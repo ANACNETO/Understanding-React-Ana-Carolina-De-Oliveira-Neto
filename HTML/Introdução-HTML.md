@@ -22,7 +22,7 @@
 <p>Grande parte dos elementos HTML permite que outros elementos sejam declarados em seu interior. Outros permitem apenas elementos específicos ou texto e outros ainda não permitem que nada seja colocado entre suas tags, esses têm a tag fechada nela mesmo.</p>
 <P>Elementos também podem ter informações adicionais chamadas de atributos.</p>
 
-### Atributos HTML
+## Atributos HTML
 <p>Atributos são pares chave-valor, separados por = e os valores devem estar envoltos de aspas. Alguns atributos podem ser usados em qualquer elemento como, por exemplo, style, que nos permite usar CSS para estilizar o elemento, ou id, que provê uma identificação única para o elemento.
 Outros são específicos de determinados elementos, por exemplo, uma imagem pode ter uma altura height e largura width e deve ter um src indicando a URL da imagem (onde ela está no servidor). Um campo para preenchimento com texto pode ter readonly, por exemplo, para marcar que o campo não pode ser alterado. Ou required, que impede que ele seja submetido com conteúdo vazio.
 </p>
