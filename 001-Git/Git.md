@@ -1,20 +1,31 @@
-# <font color=green>Git e GitHub</font>
+# <font color=green>Git</font>
 
 ## <font color=Purple>O que é Git?</font>
-<p> É uma ferramenta de versionamento de arquivo, criada por Linus Torvalds. O Git serve para controle e acompanhamento de projetos de software.<br> Pode ser usado para projetos individuais ou em grupo.</p>
+<p> É uma ferramenta de versionamento de arquivo, criada por Linus Torvalds.</p>
+<p> O Git é um sistema de versionamento de código, que guarda registros de versão. Pode ser usado para projetos individuais ou em grupo.</p>
 
-## <font color=grey>**Como usar o Git?**</font>
-<p> Para iniciar o uso do Git é preciso instalá-lo em seu computador, conforme o link de download abaixo:</p>
+
+### Operações Locais do Git
+<p>A maioria das operações feitas pelo Git são locais (no próprio computador, não necessitando de rede) e por isso boa parte das operações são praticamente instantâneas devido à facilidade de acessar arquivos em seu prório computador</p>
+
+
+## Como usar o Git?
+<p>Para iniciar o uso do Git é preciso instalá-lo em seu computador, conforme o link de download abaixo:</p>
 
 [Clique aqui para o download](https://git-scm.com/downloads)
 
-Selecione a opção de download de acordo com o seu sistema operacional e siga as etapas de orientação do site para completar a instalação.<br>
-## <font color=grey>Configurando o Git</font>
-Abra o prompt de comando no seu computador, em seguida digite **git --version** e aperte Enter<br>
-Para configurar o computador inteiro digite **git config global "user.email you@example.com"** e aperte Enter<br>
-Digite **git config global "user.name Your Name"** e aperte Enter<br>
-Caso prefira configurar apenas um projeto, digite **git config local "user.email you@example.com"** e aperte Enter<br>
-Digite **git config global "user.name Your Name"** e aperte Enter<br>
+<p>Selecione a opção de download de acordo com o seu sistema operacional e siga as etapas de orientação do site para completar a instalação.</p>
+
+
+## Configurando o Git
+
+<ul>
+<li>Abra o prompt de comando no seu computador e digite git --version e aperte Enter</li>
+<li>Para configurar o computador inteiro digite git config global "user.email you@example.com" e aperte Enter</li>
+<li>Digite git config global user.name "Your Name" e aperte Enter</li>
+<li>Caso prefira configurar apenas um projeto, digite git config local user.email "you@example.com" e aperte Enter</li>
+</ul>
+
 ## <font color=grey>Iniciar um repositório</font>
 - git init
 - git status
